@@ -171,7 +171,7 @@ CKEDITOR_CONFIGS = {
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME':  'lms21',
+        'NAME':  'lms',
         'HOST':'localhost',
         'PORT':'3306',
         'USER':"root",
