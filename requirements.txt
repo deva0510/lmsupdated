@@ -1,4 +1,4 @@
-﻿aiohttp
+ufeffaiohttp
 aiohttp-retry
 aiosignal
 arabic-reshaper
